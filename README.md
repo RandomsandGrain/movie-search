@@ -6,6 +6,6 @@
 [Click here to view the website](https://movie-search-3v2ghsxuf-esteban-jennings-projects.vercel.app/)
 
 ### What I Did
-- Built a React App with useState and useEffect
-- Fetched and displayed data from a API
-- Conditional rendering for Loading and error states
+- Built a React App with useState, useEffect, Routes, Link, and useParams
+- Fetched and displayed data from an API
+- Conditional rendering for loading and error states
